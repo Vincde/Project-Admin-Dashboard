@@ -5,7 +5,6 @@
 
 svg{
     width:20px;
-    display: inline-block;
     margin: 0;
     padding: 0;
     border: 0;
@@ -42,9 +41,8 @@ body{
 }
 
 .dashboard a{
-    width:60px;
+    width:120px;
     height: 20px;
-    display: inline-block;
 }
 
 
