@@ -162,7 +162,29 @@ body{
         display: grid;
         grid-template-rows: 20px 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr;
+        
+    }
+    .main-content-big > span{
+        height: 100%;
     }
 
+    .main-content-big > div{
+        width: 80%;
+        height: 90%;
+        display: grid;
+        justify-self: center;
+        align-self: center;
+    }
+
+    .main-content-big > div p{
+        font-size: 12px;
+    }
+
+    .main-content-big > div > div{
+        justify-self: end;
+        align-self: end;
+    }
+
+    
 
 /* main-content css specifics end */
