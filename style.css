@@ -242,6 +242,8 @@ body{
     .main-content-big > div > div{
         justify-self: end;
         align-self: end;
+        padding-bottom: 20px;
+        padding-right: 20px;
     }
 
 
